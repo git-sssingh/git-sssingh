@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @git-sssingh
+- 👋 Hi, I’m Shashi Shanker Singh
 - 👀 I’m interested in learning new things and exploring already learned technology.
 - 🌱 I’m currently learning Typescript, React and Python along with Sass and other offline webdevelopment technique.
 - 💞️ I’m looking to collaborate on any project on .Net (C#) or ReactJs.
